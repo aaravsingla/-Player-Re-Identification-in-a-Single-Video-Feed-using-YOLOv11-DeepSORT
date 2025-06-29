@@ -28,9 +28,10 @@ This project simulates **real-time re-identification and tracking**, commonly us
 ## 📁 Files in This Repository
 
 📦 Player-Reidentification
-├── 📓 sportsCNN.ipynb # Main Google Colab notebook
-├── 📓 sportscnn.py # Main code in notebook
-├── 📄 README.md # Project overview and instructions
+├── 📓 sportsCNN.ipynb # Main Google Colab notebook|
+├── 📓 sportscnn.py # Main code in notebook|
+├── 📄 README.md # Project overview and instructions|
+├── 📄 output.amv # Project output|
 
 
 ---
