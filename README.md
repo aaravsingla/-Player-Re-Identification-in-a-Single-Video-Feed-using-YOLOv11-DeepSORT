@@ -1,7 +1,7 @@
 # 🏃‍♂️ Player Re-Identification in a Single Video Feed using YOLOv11 + DeepSORT
 
 This project tracks and re-identifies players in a 15-second sports video using a fine-tuned YOLOv11 object detection model and the DeepSORT tracking algorithm. The entire workflow runs on **Google Colab**, requiring no local setup.
-https://colab.research.google.com/drive/1yZRQ4siCrN98UjT_Sf2E-NF50_Veg-KC?usp=sharing
+
 ---
 
 ## 🎯 Project Objective
