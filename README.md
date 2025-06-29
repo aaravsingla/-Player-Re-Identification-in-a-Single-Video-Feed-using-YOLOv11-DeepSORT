@@ -41,7 +41,7 @@ You do **not** need to run anything locally. Just follow these steps:
 
 ### 1️⃣ Open the Colab Notebook
 
-> 📌 Click here → [Open in Colab](https://colab.research.google.com/github/your-username/player-reidentification/blob/main/tracking_pipeline_colab.ipynb)
+> 📌 Click here → [Open in Colab](https://colab.research.google.com/drive/1yZRQ4siCrN98UjT_Sf2E-NF50_Veg-KC?usp=sharing)
 
 ### 2️⃣ Upload Required Files to Google Drive
 
