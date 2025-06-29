@@ -31,7 +31,7 @@ This project simulates **real-time re-identification and tracking**, commonly us
 ├── 📓 sportsCNN.ipynb # Main Google Colab notebook|
 ├── 📓 sportscnn.py # Main code in notebook|
 ├── 📄 README.md # Project overview and instructions|
-├── 📄 output.amv # Project output|
+├── 📄 output.avi # Project output|
 
 
 ---
