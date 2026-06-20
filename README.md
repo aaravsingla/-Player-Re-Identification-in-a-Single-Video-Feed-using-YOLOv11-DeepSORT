@@ -2,6 +2,10 @@
 
 This project tracks and re-identifies players in a 15-second sports video using a fine-tuned YOLOv11 object detection model and the DeepSORT tracking algorithm. The entire workflow runs on **Google Colab**, requiring no local setup.
 
+for the StereoVision part go to
+
+https://github.com/aaravsingla/Sterio-Computer-Vision/tree/main/DENSE-3D-RECONSTRUCTION-main
+
 ---
 
 ## 🎯 Project Objective
